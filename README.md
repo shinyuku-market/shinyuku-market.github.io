@@ -6,7 +6,7 @@ CONTENTS OF THIS FILE
  * Introduction
  * Types of Pages
  * Maintainers
- 
+
 INTRODUCTION
 ------------
 
@@ -16,15 +16,27 @@ TYPES OF PAGES
 --------------
 
 At the moment these are the only up to date pages:
- 
-Pages in progess:
+
+Ready Pages:
  * index.html
- * shows.html
- * music.html
- * gallery.html
-   
+ * shops.html
+ * blackhollow.html
+ * cyaesar.html
+ * jacob.html
+ * jopa.html
+ * kaenarai.html
+ * kinnomachi.html
+ * marin.html
+ * mecr.html
+ * pointtech.html
+ * wongfei.html
+
+
+Pages in progess:
+ * all_items.html
+
 MAINTAINERS
 -----------
 
 Current maintainers:
- * Chikimiko 
+ * Chikimiko
