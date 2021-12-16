@@ -20,16 +20,11 @@ At the moment these are the only up to date pages:
 Ready Pages:
  * index.html
  * shops.html
- * blackhollow.html
- * cyaesar.html
- * jacob.html
  * jopa.html
  * kaenarai.html
- * kinnomachi.html
  * marin.html
  * mecr.html
  * pointtech.html
- * wongfei.html
 
 
 Pages in progess:
@@ -40,3 +35,4 @@ MAINTAINERS
 
 Current maintainers:
  * Chikimiko
+ * Jaxon Dax
