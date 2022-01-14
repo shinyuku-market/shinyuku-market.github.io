@@ -34,5 +34,5 @@ MAINTAINERS
 -----------
 
 Current maintainers:
- * Chikimiko
  * Jaxon Dax
+ * Atlas Frost
